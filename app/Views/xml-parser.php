@@ -14,6 +14,7 @@
 
     <div class="container">
         <h2>XML Parser</h2>
+        <a href="<?= site_url('json-parser'); ?> " class="btn btn-success">Json</a>
         <table class="table">
             <thead>
                 <tr>

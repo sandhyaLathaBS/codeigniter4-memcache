@@ -13,7 +13,7 @@
 <body>
 
     <div class="container">
-        <h2>Json Parser</h2>
+        <h2>Json Parser</h2><a href="<?= site_url('/'); ?> " class="btn btn-success">XML</a>
         <table class="table">
             <thead>
                 <tr>
