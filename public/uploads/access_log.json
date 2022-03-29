@@ -1,30 +1,394 @@
-{ "time": "06/Mar/2021:17:48:00 +0530", "remote_addr": "10.0.2.99", "client_ip": "37.201.192.163", "remote_user": "-", "body_bytes_sent": "43", "request_time": "0.000", "status": "200", "request": "GET /plugins/status.gif?type=videoviewability;status=viewability;sid=ca8db1de-9bef-4b2b-84f2-6989788b531b;ph=3035;vp=%5BVIEWPORTPERCENTAGE%5D;vs=3035;tc=3035;sc=1615033079;wt=3035;vid=1223631 HTTP/1.1", "request_method": "GET", "http_referrer": "-", "http_user_agent": "Dalvik/2.1.0 (Linux; U; Android 11; SM-G973F Build/RP1A.200720.012)" }
-{ "time": "06/Mar/2021:17:48:00 +0530", "remote_addr": "10.0.2.99", "client_ip": "5.80.132.67", "remote_user": "-", "body_bytes_sent": "43", "request_time": "0.000", "status": "200", "request": "GET /plugins/status.gif?type=videoviewability;status=viewability;sid=ed5e7ac8-5b44-4fdd-8fb4-2b492f97c160;ph=127694;vp=%5BVIEWPORTPERCENTAGE%5D;vs=127694;tc=127694;sc=1615033079;wt=79000;vid=1223631 HTTP/1.1", "request_method": "GET", "http_referrer": "-", "http_user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; moto g(7) power Build/QPOS30.52-29-7-6)" }
-{ "time": "06/Mar/2021:17:48:00 +0530", "remote_addr": "10.0.2.99", "client_ip": "176.205.135.246", "remote_user": "-", "body_bytes_sent": "43", "request_time": "0.000", "status": "200", "request": "GET /plugins/status.gif?type=videoviewability;status=viewability;sid=34d885cb-8820-4e88-bd58-8cd6481b3b8f;ph=2672;vp=%5BVIEWPORTPERCENTAGE%5D;vs=2672;tc=6934;sc=1615033078;wt=2670;vid=1282917;user_id=54395 HTTP/1.1", "request_method": "GET", "http_referrer": "-", "http_user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-N960F Build/QP1A.190711.020)" }
-{ "time": "06/Mar/2021:17:48:00 +0530", "remote_addr": "10.0.2.99", "client_ip": "209.126.12.78", "remote_user": "-", "body_bytes_sent": "43", "request_time": "0.000", "status": "200", "request": "GET /plugins/beacon.gif?type=error;status=hls_error;error-type=networkError;message=manifestParsingError;random=09083041544835624 HTTP/1.1", "request_method": "GET", "http_referrer": "https://www.simplysouth.tv/", "http_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" }
-{ "time": "06/Mar/2021:17:48:00 +0530", "remote_addr": "10.0.1.72", "client_ip": "103.55.91.213", "remote_user": "-", "body_bytes_sent": "43", "request_time": "0.000", "status": "200", "request": "GET /plugins/status.gif?type=userinfo;status=userinfo;sid=a32a4016-edad-4790-88cd-8736f09d2f2a;ip=103.55.91.213;pid=1676;cid=IN;vid=1;sc=2021-03-06%3A17%3A47%3A54;stc=UP;viid=223.233.73.44--1613028023;afid=1;bsn=Chrome+49.0;osn=Windows+XP;pfid=3;ppos=1;pw=300;ph=250;ast=1;mute=0;volume=2;slotid=0;cityid=39803;pd=1;ppurl=https%253A%2F%2Fwww.jagran.com%2Fnews%2Fnational-weather-updates-rain-in-these-parts-of-the-country-imd-issued-alert-21434554.html;ads=videobanner%7E17086%7E1%7E0 HTTP/1.1", "request_method": "GET", "http_referrer": "https://www.jagran.com/news/national-weather-updates-rain-in-these-parts-of-the-country-imd-issued-alert-21434554.html?itm_source=website&itm_medium=homepage&itm_campaign=p1_component", "http_user_agent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36" }
-{ "time": "06/Mar/2021:17:48:00 +0530", "remote_addr": "10.0.1.72", "client_ip": "103.55.91.213", "remote_user": "-", "body_bytes_sent": "5", "request_time": "0.001", "status": "200", "request": "GET /plugins/istatus.php?type=adstart&status=start&sid=84dad675-a855-40c2-b627-25d92c9b1412&cmpro=5760&cmpid=17086&pid=1676&cid=IN&vid=1&pfid=3&sc=2021-03-06%3A17%3A47%3A54&timestamp=1615033074387&ptm=1&mvt=NA&vpu=-1&mvtro=NA&vpuro=0&cmprate=0 HTTP/1.1", "request_method": "GET", "http_referrer": "https://www.jagran.com/news/national-weather-updates-rain-in-these-parts-of-the-country-imd-issued-alert-21434554.html?itm_source=website&itm_medium=homepage&itm_campaign=p1_component", "http_user_agent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36" }
-{ "time": "06/Mar/2021:17:48:00 +0530", "remote_addr": "10.0.1.72", "client_ip": "103.55.91.213", "remote_user": "-", "body_bytes_sent": "43", "request_time": "0.000", "status": "200", "request": "GET /plugins/status.gif?type=ad;status=ad_request;sid=84dad675-a855-40c2-b627-25d92c9b1412;cmpro=5760;cmpid=17086;pid=1676;cid=IN;vid=1;pfid=3;sc=2021-03-06%3A17%3A47%3A54;timestamp=1615033071766;ptm=1;mvt=NA;vpu=-1;mvtro=NA;vpuro=0;cmprate=0 HTTP/1.1", "request_method": "GET", "http_referrer": "https://www.jagran.com/news/national-weather-updates-rain-in-these-parts-of-the-country-imd-issued-alert-21434554.html?itm_source=website&itm_medium=homepage&itm_campaign=p1_component", "http_user_agent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36" }
-{ "time": "06/Mar/2021:17:48:00 +0530", "remote_addr": "10.0.2.99", "client_ip": "80.192.67.156", "remote_user": "-", "body_bytes_sent": "43", "request_time": "0.000", "status": "200", "request": "GET /plugins/status.gif?type=videoviewability;status=viewability;sid=30e9970c-df52-485a-8080-9444aff26d77;ph=22773;vp=%5BVIEWPORTPERCENTAGE%5D;vs=22773;tc=0;sc=1615033077;wt=45545;vid=1261849 HTTP/1.1", "request_method": "GET", "http_referrer": "-", "http_user_agent": "IBC%20Tamil/4 CFNetwork/1220.1 Darwin/20.3.0" }
-{ "time": "06/Mar/2021:17:48:00 +0530", "remote_addr": "10.0.1.72", "client_ip": "115.164.217.115", "remote_user": "-", "body_bytes_sent": "43", "request_time": "0.000", "status": "200", "request": "GET /plugins/status.gif?type=videoviewability;status=viewability;sid=1397bef1-14b4-496d-a59b-9ac7a332c4b9;ph=3510;vp=100;vs=3510;tc=6618;sc=1615033080532;wt=2596;vid=1277391;user_id=55212 HTTP/1.1", "request_method": "GET", "http_referrer": "https://www.simplysouth.tv/", "http_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" }
-{ "time": "06/Mar/2021:17:48:00 +0530", "remote_addr": "10.0.2.99", "client_ip": "92.96.159.127", "remote_user": "-", "body_bytes_sent": "43", "request_time": "0.000", "status": "200", "request": "GET /plugins/status.gif?type=videoviewability;status=viewability;sid=9b77b1bf-57ad-4830-bafe-8217ac554932;ph=762;vp=%5BVIEWPORTPERCENTAGE%5D;vs=762;tc=762;sc=1615033079;wt=745;vid=1234480 HTTP/1.1", "request_method": "GET", "http_referrer": "-", "http_user_agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; SMART_TV Build/NRD90M)" }
-{ "time": "06/Mar/2021:17:48:00 +0530", "remote_addr": "10.0.1.72", "client_ip": "80.2.177.67", "remote_user": "-", "body_bytes_sent": "43", "request_time": "0.000", "status": "200", "request": "GET /plugins/status.gif?type=videoviewability;status=viewability;sid=b4a64969-bbf6-4ebe-8491-ffd1acf81484;ph=1113;vp=%5BVIEWPORTPERCENTAGE%5D;vs=1113;tc=0;sc=1615033080;wt=2225;vid=1223631 HTTP/1.1", "request_method": "GET", "http_referrer": "-", "http_user_agent": "IBC%20Tamil/4 CFNetwork/811.5.4 Darwin/16.7.0" }
-{ "time": "06/Mar/2021:17:48:00 +0530", "remote_addr": "10.0.2.99", "client_ip": "132.154.80.68", "remote_user": "-", "body_bytes_sent": "5", "request_time": "0.000", "status": "200", "request": "GET /plugins/istatus.php?type=adstart&status=start&sid=3dae10a0-1a3f-4c09-802b-1864bbbbcb98&cmpro=5760&cmpid=17086&pid=1676&cid=IN&vid=1&pfid=3&sc=2021-03-06%3A17%3A47%3A50&timestamp=1615033080492&ptm=1&mvt=NA&vpu=-1&mvtro=NA&vpuro=0&cmprate=0 HTTP/1.1", "request_method": "GET", "http_referrer": "https://www.jagran.com/", "http_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" }
-{ "time": "06/Mar/2021:17:48:00 +0530", "remote_addr": "10.0.1.72", "client_ip": "106.223.139.233", "remote_user": "-", "body_bytes_sent": "43", "request_time": "0.000", "status": "200", "request": "GET /plugins/status.gif?type=adprogress;status=mid;sid=5b421b21-d03c-4188-9f8c-6b04f8c0cd8d;cmpro=5760;cmpid=17086;pid=1676;cid=IN;vid=1;pfid=3;sc=2021-03-06%3A17%3A47%3A36;timestamp=1615033079113;ptm=2;mvt=NA;vpu=-1;mvtro=NA;vpuro=0;cmprate=0 HTTP/1.1", "request_method": "GET", "http_referrer": "https://m.jagran.com/delhi/new-delhi-city-ncr-socking-news-for-rakesh-tikait-because-protesters-at-the-border-of-up-and-haryana-are-continuously-decreasing-jagran-special-21433958.html?utm_source=JagranFacebook&utm_medium=Social&utm_campaign=JagranFBIA", "http_user_agent": "Mozilla/5.0 (Linux; Android 8.1.0; vivo 1803 Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.110 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/300.2.0.58.129;]" }
-{ "time": "06/Mar/2021:17:48:00 +0530", "remote_addr": "10.0.2.99", "client_ip": "209.126.12.78", "remote_user": "-", "body_bytes_sent": "43", "request_time": "0.000", "status": "200", "request": "GET /plugins/beacon.gif?type=error;status=hls_error;error-type=networkError;message=manifestParsingError;random=08437590093717722 HTTP/1.1", "request_method": "GET", "http_referrer": "https://www.simplysouth.tv/", "http_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" }
-{ "time": "06/Mar/2021:17:48:00 +0530", "remote_addr": "10.0.1.72", "client_ip": "110.159.189.57", "remote_user": "-", "body_bytes_sent": "43", "request_time": "0.000", "status": "200", "request": "GET /plugins/status.gif?type=videoviewability;status=viewability;sid=f6800d7a-ea99-4b4e-aaa4-7d06ba814d9d;ph=6625;vp=100;vs=6625;tc=8726.581;sc=1615033079958;wt=6261;vid=1190206;user_id=29759 HTTP/1.1", "request_method": "GET", "http_referrer": "-", "http_user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.34 Safari/537.36 WebAppManager" }
-{ "time": "06/Mar/2021:17:48:00 +0530", "remote_addr": "10.0.1.72", "client_ip": "37.164.92.45", "remote_user": "-", "body_bytes_sent": "43", "request_time": "0.000", "status": "200", "request": "GET /plugins/status.gif?type=videoviewability;status=viewability;sid=f8a34c6e-ef88-4413-a6a9-ef2531c0d400;ph=1198;vp=%5BVIEWPORTPERCENTAGE%5D;vs=1198;tc=0;sc=1615033080;wt=2395;vid=1223631 HTTP/1.1", "request_method": "GET", "http_referrer": "-", "http_user_agent": "IBC%20Tamil/4 CFNetwork/1206 Darwin/20.1.0" }
-{ "time": "06/Mar/2021:17:48:00 +0530", "remote_addr": "10.0.2.99", "client_ip": "85.2.0.102", "remote_user": "-", "body_bytes_sent": "43", "request_time": "0.000", "status": "200", "request": "GET /plugins/status.gif?type=videoviewability;status=viewability;sid=7264b035-a653-4525-a0a3-b9525e5652e4;ph=8180;vp=%5BVIEWPORTPERCENTAGE%5D;vs=8180;tc=8180;sc=1615033079;wt=8180;vid=1223631 HTTP/1.1", "request_method": "GET", "http_referrer": "-", "http_user_agent": "Dalvik/2.1.0 (Linux; U; Android 8.0.0; SM-G930F Build/R16NW)" }
-{ "time": "06/Mar/2021:17:48:00 +0530", "remote_addr": "10.0.1.72", "client_ip": "87.49.147.179", "remote_user": "-", "body_bytes_sent": "43", "request_time": "0.000", "status": "200", "request": "GET /plugins/status.gif?type=videoviewability;status=viewability;sid=b3bd36db-8cc3-40e4-959f-c3de73ec38ac;ph=16830;vp=%5BVIEWPORTPERCENTAGE%5D;vs=16830;tc=16830;sc=1615033079;wt=16830;vid=1223631 HTTP/1.1", "request_method": "GET", "http_referrer": "-", "http_user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-J500FN Build/LMY48B)" }
-{ "time": "06/Mar/2021:17:48:00 +0530", "remote_addr": "10.0.2.99", "client_ip": "106.195.110.205", "remote_user": "-", "body_bytes_sent": "43", "request_time": "0.000", "status": "200", "request": "GET /plugins/beacon.gif?type=error;status=playlist_error;cmpid=17086;cmpro=5760;pid=1676;cid=IN;pfid=3;pd=2;sid=008ca0e0-6f97-43a9-91ea-fd33a888214b;ecode=403;einfo=tag[0]:||;sc=2021-03-06:17:47:49 HTTP/1.1", "request_method": "GET", "http_referrer": "https://m.jagran.com/uttar-pradesh/moradabad-city-rampur-radico-khaitan-liquor-factory-up-fire-in-liquor-factory-radico-khaitan-10-workers-scorched-21433947.html", "http_user_agent": "Mozilla/5.0 (Linux; U; Android 5.1.1; en-us; A37fw Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.80 Mobile Safari/537.36 HeyTapBrowser/15.7.6.1" }
-{ "time": "06/Mar/2021:17:48:00 +0530", "remote_addr": "10.0.2.99", "client_ip": "76.175.152.54", "remote_user": "-", "body_bytes_sent": "43", "request_time": "0.000", "status": "200", "request": "GET /plugins/status.gif?type=videoviewability;status=viewability;sid=1af3ffae-70a9-46c5-8548-19381cd29250;ph=3800;vp=[VIEWPORTPERCENTAGE];vs=3800;tc=3878;sc=1.615033e+09;wt=3800;vid=1234480 HTTP/1.1", "request_method": "GET", "http_referrer": "-", "http_user_agent": "Roku/DVP-9.40 (089.40E04200A)" }
-{ "time": "06/Mar/2021:17:48:00 +0530", "remote_addr": "10.0.2.99", "client_ip": "209.126.12.78", "remote_user": "-", "body_bytes_sent": "43", "request_time": "0.000", "status": "200", "request": "GET /plugins/beacon.gif?type=error;status=hls_error;error-type=networkError;message=manifestParsingError;random=04038641899304256 HTTP/1.1", "request_method": "GET", "http_referrer": "https://www.simplysouth.tv/", "http_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" }
-{ "time": "06/Mar/2021:17:48:00 +0530", "remote_addr": "10.0.2.99", "client_ip": "79.67.191.69", "remote_user": "-", "body_bytes_sent": "43", "request_time": "0.000", "status": "200", "request": "GET /plugins/status.gif?type=videoviewability;status=viewability;sid=0f110b66-3845-4a0e-b478-1c2869945ec9;ph=2845;vp=%5BVIEWPORTPERCENTAGE%5D;vs=2845;tc=2845;sc=1615033084;wt=2845;vid=1223631 HTTP/1.1", "request_method": "GET", "http_referrer": "-", "http_user_agent": "Dalvik/2.1.0 (Linux; U; Android 9; SM-A705FN Build/PPR1.180610.011)" }
-{ "time": "06/Mar/2021:17:48:00 +0530", "remote_addr": "10.0.2.99", "client_ip": "90.199.2.202", "remote_user": "-", "body_bytes_sent": "43", "request_time": "0.000", "status": "200", "request": "GET /plugins/status.gif?type=videoviewability;status=viewability;sid=2fbe95e7-f0ac-4882-9bba-669405f757ae;ph=23063;vp=%5BVIEWPORTPERCENTAGE%5D;vs=23063;tc=0;sc=1615033080;wt=46125;vid=1223631 HTTP/1.1", "request_method": "GET", "http_referrer": "-", "http_user_agent": "IBC%20Tamil/4 CFNetwork/758.5.3 Darwin/15.6.0" }
-{ "time": "06/Mar/2021:17:48:00 +0530", "remote_addr": "10.0.1.72", "client_ip": "78.101.94.150", "remote_user": "-", "body_bytes_sent": "43", "request_time": "0.000", "status": "200", "request": "GET /plugins/status.gif?type=videoviewability;status=viewability;sid=7e472931-91c7-4b9a-b93c-acd593e6cc5f;ph=7794;vp=100;vs=7794;tc=7968;sc=1615033080;wt=6745;vid=1282647;user_id=26254 HTTP/1.1", "request_method": "GET", "http_referrer": "-", "http_user_agent": "OTT_tvOS/3 CFNetwork/1220.1 Darwin/20.3.0" }
-{ "time": "06/Mar/2021:17:48:00 +0530", "remote_addr": "10.0.2.99", "client_ip": "122.160.70.186", "remote_user": "-", "body_bytes_sent": "5", "request_time": "0.000", "status": "200", "request": "GET /plugins/istatus.php?type=adstart&status=start&sid=d683f4e3-52a0-4c6a-9c4f-dad746ef177d&cmpro=5760&cmpid=17086&pid=1676&cid=IN&vid=1&pfid=3&sc=2021-03-06%3A17%3A47%3A56&timestamp=1615033091762&ptm=1&mvt=NA&vpu=-1&mvtro=NA&vpuro=0&cmprate=0 HTTP/1.1", "request_method": "GET", "http_referrer": "https://www.jagran.com/", "http_user_agent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" }
-{ "time": "06/Mar/2021:17:48:00 +0530", "remote_addr": "10.0.1.72", "client_ip": "37.124.121.70", "remote_user": "-", "body_bytes_sent": "43", "request_time": "0.000", "status": "200", "request": "GET /plugins/status.gif?type=videoviewability;status=viewability;sid=5d12f287-237f-4477-a72c-74b5180c2034;ph=898;vp=%5BVIEWPORTPERCENTAGE%5D;vs=898;tc=10650;sc=1615033078;wt=675;vid=1281694;user_id=54626 HTTP/1.1", "request_method": "GET", "http_referrer": "-", "http_user_agent": "Dalvik/2.1.0 (Linux; U; Android 9; MIBOX4 Build/PI)" }
-{ "time": "06/Mar/2021:17:48:00 +0530", "remote_addr": "10.0.1.72", "client_ip": "61.6.149.68", "remote_user": "-", "body_bytes_sent": "43", "request_time": "0.000", "status": "200", "request": "GET /plugins/status.gif?type=videoviewability;status=viewability;sid=999218e4-a474-4873-970b-97d9de17570e;ph=1644;vp=%5BVIEWPORTPERCENTAGE%5D;vs=1644;tc=9058;sc=1615033077;wt=125;vid=1226213;user_id=50988 HTTP/1.1", "request_method": "GET", "http_referrer": "-", "http_user_agent": "Dalvik/2.1.0 (Linux; U; Android 7.1.1; CPH1719 Build/NMF26X)" }
-{ "time": "06/Mar/2021:17:48:00 +0530", "remote_addr": "10.0.2.99", "client_ip": "92.6.112.249", "remote_user": "-", "body_bytes_sent": "43", "request_time": "0.000", "status": "200", "request": "GET /plugins/status.gif?type=videoviewability;status=viewability;sid=18e35db5-cc23-4d71-ac9a-854d704fdd60;ph=61409;vp=[VIEWPORTPERCENTAGE];vs=61409;tc=61469;sc=1.615033e+09;wt=61409;vid=1169468 HTTP/1.1", "request_method": "GET", "http_referrer": "-", "http_user_agent": "Roku/DVP-9.10 (029.10E05006A)" }
-{ "time": "06/Mar/2021:17:48:00 +0530", "remote_addr": "10.0.1.72", "client_ip": "2.99.127.18", "remote_user": "-", "body_bytes_sent": "43", "request_time": "0.000", "status": "200", "request": "GET /plugins/status.gif?type=videoviewability;status=viewability;sid=bd9fad14-e795-4983-a9bd-150733be5ce1;ph=1133;vp=%5BVIEWPORTPERCENTAGE%5D;vs=1133;tc=0;sc=1615033080;wt=2265;vid=1223631 HTTP/1.1", "request_method": "GET", "http_referrer": "-", "http_user_agent": "IBC%20Tamil/4 CFNetwork/1220.1 Darwin/20.3.0" }
-{ "time": "06/Mar/2021:17:48:00 +0530", "remote_addr": "10.0.2.99", "client_ip": "45.64.10.155", "remote_user": "-", "body_bytes_sent": "5", "request_time": "0.001", "status": "200", "request": "GET /plugins/istatus.php?type=adstart&status=start&sid=e50c17cc-098d-4da7-8cde-b2c69a4aca69&cmpro=5760&cmpid=17086&pid=1676&cid=IN&vid=1&pfid=3&sc=2021-03-06%3A17%3A47%3A58&timestamp=1615033079964&ptm=2&mvt=NA&vpu=-1&mvtro=NA&vpuro=0&cmprate=0 HTTP/1.1", "request_method": "GET", "http_referrer": "https://m.jagran.com/cricket/headlines-indian-fast-bowler-going-to-marriage-with-model-and-sports-anchor-sanjana-ganesan-21432822.html?utm_source=referral&utm_medium=WA&utm_campaign=amp_social_share", "http_user_agent": "Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-G780F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/13.2 Chrome/83.0.4103.106 Mobile Safari/537.36" }
+{
+    "item": [
+        {
+            "time": "06/Mar/2021:17:48:00 +0530",
+            "remote_addr": "10.0.2.99",
+            "client_ip": "37.201.192.163",
+            "remote_user": "-",
+            "body_bytes_sent": "43",
+            "request_time": "0.000",
+            "status": "200",
+            "request": "GET /plugins/status.gif?type=videoviewability;status=viewability;sid=ca8db1de-9bef-4b2b-84f2-6989788b531b;ph=3035;vp=%5BVIEWPORTPERCENTAGE%5D;vs=3035;tc=3035;sc=1615033079;wt=3035;vid=1223631 HTTP/1.1",
+            "request_method": "GET",
+            "http_referrer": "-",
+            "http_user_agent": "Dalvik/2.1.0 (Linux; U; Android 11; SM-G973F Build/RP1A.200720.012)"
+        },
+        {
+            "time": "06/Mar/2021:17:48:00 +0530",
+            "remote_addr": "10.0.2.99",
+            "client_ip": "5.80.132.67",
+            "remote_user": "-",
+            "body_bytes_sent": "43",
+            "request_time": "0.000",
+            "status": "200",
+            "request": "GET /plugins/status.gif?type=videoviewability;status=viewability;sid=ed5e7ac8-5b44-4fdd-8fb4-2b492f97c160;ph=127694;vp=%5BVIEWPORTPERCENTAGE%5D;vs=127694;tc=127694;sc=1615033079;wt=79000;vid=1223631 HTTP/1.1",
+            "request_method": "GET",
+            "http_referrer": "-",
+            "http_user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; moto g(7) power Build/QPOS30.52-29-7-6)"
+        },
+        {
+            "time": "06/Mar/2021:17:48:00 +0530",
+            "remote_addr": "10.0.2.99",
+            "client_ip": "176.205.135.246",
+            "remote_user": "-",
+            "body_bytes_sent": "43",
+            "request_time": "0.000",
+            "status": "200",
+            "request": "GET /plugins/status.gif?type=videoviewability;status=viewability;sid=34d885cb-8820-4e88-bd58-8cd6481b3b8f;ph=2672;vp=%5BVIEWPORTPERCENTAGE%5D;vs=2672;tc=6934;sc=1615033078;wt=2670;vid=1282917;user_id=54395 HTTP/1.1",
+            "request_method": "GET",
+            "http_referrer": "-",
+            "http_user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-N960F Build/QP1A.190711.020)"
+        },
+        {
+            "time": "06/Mar/2021:17:48:00 +0530",
+            "remote_addr": "10.0.2.99",
+            "client_ip": "209.126.12.78",
+            "remote_user": "-",
+            "body_bytes_sent": "43",
+            "request_time": "0.000",
+            "status": "200",
+            "request": "GET /plugins/beacon.gif?type=error;status=hls_error;error-type=networkError;message=manifestParsingError;random=09083041544835624 HTTP/1.1",
+            "request_method": "GET",
+            "http_referrer": "https://www.simplysouth.tv/",
+            "http_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36"
+        },
+        {
+            "time": "06/Mar/2021:17:48:00 +0530",
+            "remote_addr": "10.0.1.72",
+            "client_ip": "103.55.91.213",
+            "remote_user": "-",
+            "body_bytes_sent": "43",
+            "request_time": "0.000",
+            "status": "200",
+            "request": "GET /plugins/status.gif?type=userinfo;status=userinfo;sid=a32a4016-edad-4790-88cd-8736f09d2f2a;ip=103.55.91.213;pid=1676;cid=IN;vid=1;sc=2021-03-06%3A17%3A47%3A54;stc=UP;viid=223.233.73.44--1613028023;afid=1;bsn=Chrome+49.0;osn=Windows+XP;pfid=3;ppos=1;pw=300;ph=250;ast=1;mute=0;volume=2;slotid=0;cityid=39803;pd=1;ppurl=https%253A%2F%2Fwww.jagran.com%2Fnews%2Fnational-weather-updates-rain-in-these-parts-of-the-country-imd-issued-alert-21434554.html;ads=videobanner%7E17086%7E1%7E0 HTTP/1.1",
+            "request_method": "GET",
+            "http_referrer": "https://www.jagran.com/news/national-weather-updates-rain-in-these-parts-of-the-country-imd-issued-alert-21434554.html?itm_source=website&itm_medium=homepage&itm_campaign=p1_component",
+            "http_user_agent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36"
+        },
+        {
+            "time": "06/Mar/2021:17:48:00 +0530",
+            "remote_addr": "10.0.1.72",
+            "client_ip": "103.55.91.213",
+            "remote_user": "-",
+            "body_bytes_sent": "5",
+            "request_time": "0.001",
+            "status": "200",
+            "request": "GET /plugins/istatus.php?type=adstart&status=start&sid=84dad675-a855-40c2-b627-25d92c9b1412&cmpro=5760&cmpid=17086&pid=1676&cid=IN&vid=1&pfid=3&sc=2021-03-06%3A17%3A47%3A54&timestamp=1615033074387&ptm=1&mvt=NA&vpu=-1&mvtro=NA&vpuro=0&cmprate=0 HTTP/1.1",
+            "request_method": "GET",
+            "http_referrer": "https://www.jagran.com/news/national-weather-updates-rain-in-these-parts-of-the-country-imd-issued-alert-21434554.html?itm_source=website&itm_medium=homepage&itm_campaign=p1_component",
+            "http_user_agent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36"
+        },
+        {
+            "time": "06/Mar/2021:17:48:00 +0530",
+            "remote_addr": "10.0.1.72",
+            "client_ip": "103.55.91.213",
+            "remote_user": "-",
+            "body_bytes_sent": "43",
+            "request_time": "0.000",
+            "status": "200",
+            "request": "GET /plugins/status.gif?type=ad;status=ad_request;sid=84dad675-a855-40c2-b627-25d92c9b1412;cmpro=5760;cmpid=17086;pid=1676;cid=IN;vid=1;pfid=3;sc=2021-03-06%3A17%3A47%3A54;timestamp=1615033071766;ptm=1;mvt=NA;vpu=-1;mvtro=NA;vpuro=0;cmprate=0 HTTP/1.1",
+            "request_method": "GET",
+            "http_referrer": "https://www.jagran.com/news/national-weather-updates-rain-in-these-parts-of-the-country-imd-issued-alert-21434554.html?itm_source=website&itm_medium=homepage&itm_campaign=p1_component",
+            "http_user_agent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36"
+        },
+        {
+            "time": "06/Mar/2021:17:48:00 +0530",
+            "remote_addr": "10.0.2.99",
+            "client_ip": "80.192.67.156",
+            "remote_user": "-",
+            "body_bytes_sent": "43",
+            "request_time": "0.000",
+            "status": "200",
+            "request": "GET /plugins/status.gif?type=videoviewability;status=viewability;sid=30e9970c-df52-485a-8080-9444aff26d77;ph=22773;vp=%5BVIEWPORTPERCENTAGE%5D;vs=22773;tc=0;sc=1615033077;wt=45545;vid=1261849 HTTP/1.1",
+            "request_method": "GET",
+            "http_referrer": "-",
+            "http_user_agent": "IBC%20Tamil/4 CFNetwork/1220.1 Darwin/20.3.0"
+        },
+        {
+            "time": "06/Mar/2021:17:48:00 +0530",
+            "remote_addr": "10.0.1.72",
+            "client_ip": "115.164.217.115",
+            "remote_user": "-",
+            "body_bytes_sent": "43",
+            "request_time": "0.000",
+            "status": "200",
+            "request": "GET /plugins/status.gif?type=videoviewability;status=viewability;sid=1397bef1-14b4-496d-a59b-9ac7a332c4b9;ph=3510;vp=100;vs=3510;tc=6618;sc=1615033080532;wt=2596;vid=1277391;user_id=55212 HTTP/1.1",
+            "request_method": "GET",
+            "http_referrer": "https://www.simplysouth.tv/",
+            "http_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36"
+        },
+        {
+            "time": "06/Mar/2021:17:48:00 +0530",
+            "remote_addr": "10.0.2.99",
+            "client_ip": "92.96.159.127",
+            "remote_user": "-",
+            "body_bytes_sent": "43",
+            "request_time": "0.000",
+            "status": "200",
+            "request": "GET /plugins/status.gif?type=videoviewability;status=viewability;sid=9b77b1bf-57ad-4830-bafe-8217ac554932;ph=762;vp=%5BVIEWPORTPERCENTAGE%5D;vs=762;tc=762;sc=1615033079;wt=745;vid=1234480 HTTP/1.1",
+            "request_method": "GET",
+            "http_referrer": "-",
+            "http_user_agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; SMART_TV Build/NRD90M)"
+        },
+        {
+            "time": "06/Mar/2021:17:48:00 +0530",
+            "remote_addr": "10.0.1.72",
+            "client_ip": "80.2.177.67",
+            "remote_user": "-",
+            "body_bytes_sent": "43",
+            "request_time": "0.000",
+            "status": "200",
+            "request": "GET /plugins/status.gif?type=videoviewability;status=viewability;sid=b4a64969-bbf6-4ebe-8491-ffd1acf81484;ph=1113;vp=%5BVIEWPORTPERCENTAGE%5D;vs=1113;tc=0;sc=1615033080;wt=2225;vid=1223631 HTTP/1.1",
+            "request_method": "GET",
+            "http_referrer": "-",
+            "http_user_agent": "IBC%20Tamil/4 CFNetwork/811.5.4 Darwin/16.7.0"
+        },
+        {
+            "time": "06/Mar/2021:17:48:00 +0530",
+            "remote_addr": "10.0.2.99",
+            "client_ip": "132.154.80.68",
+            "remote_user": "-",
+            "body_bytes_sent": "5",
+            "request_time": "0.000",
+            "status": "200",
+            "request": "GET /plugins/istatus.php?type=adstart&status=start&sid=3dae10a0-1a3f-4c09-802b-1864bbbbcb98&cmpro=5760&cmpid=17086&pid=1676&cid=IN&vid=1&pfid=3&sc=2021-03-06%3A17%3A47%3A50&timestamp=1615033080492&ptm=1&mvt=NA&vpu=-1&mvtro=NA&vpuro=0&cmprate=0 HTTP/1.1",
+            "request_method": "GET",
+            "http_referrer": "https://www.jagran.com/",
+            "http_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36"
+        },
+        {
+            "time": "06/Mar/2021:17:48:00 +0530",
+            "remote_addr": "10.0.1.72",
+            "client_ip": "106.223.139.233",
+            "remote_user": "-",
+            "body_bytes_sent": "43",
+            "request_time": "0.000",
+            "status": "200",
+            "request": "GET /plugins/status.gif?type=adprogress;status=mid;sid=5b421b21-d03c-4188-9f8c-6b04f8c0cd8d;cmpro=5760;cmpid=17086;pid=1676;cid=IN;vid=1;pfid=3;sc=2021-03-06%3A17%3A47%3A36;timestamp=1615033079113;ptm=2;mvt=NA;vpu=-1;mvtro=NA;vpuro=0;cmprate=0 HTTP/1.1",
+            "request_method": "GET",
+            "http_referrer": "https://m.jagran.com/delhi/new-delhi-city-ncr-socking-news-for-rakesh-tikait-because-protesters-at-the-border-of-up-and-haryana-are-continuously-decreasing-jagran-special-21433958.html?utm_source=JagranFacebook&utm_medium=Social&utm_campaign=JagranFBIA",
+            "http_user_agent": "Mozilla/5.0 (Linux; Android 8.1.0; vivo 1803 Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.110 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/300.2.0.58.129;]"
+        },
+        {
+            "time": "06/Mar/2021:17:48:00 +0530",
+            "remote_addr": "10.0.2.99",
+            "client_ip": "209.126.12.78",
+            "remote_user": "-",
+            "body_bytes_sent": "43",
+            "request_time": "0.000",
+            "status": "200",
+            "request": "GET /plugins/beacon.gif?type=error;status=hls_error;error-type=networkError;message=manifestParsingError;random=08437590093717722 HTTP/1.1",
+            "request_method": "GET",
+            "http_referrer": "https://www.simplysouth.tv/",
+            "http_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36"
+        },
+        {
+            "time": "06/Mar/2021:17:48:00 +0530",
+            "remote_addr": "10.0.1.72",
+            "client_ip": "110.159.189.57",
+            "remote_user": "-",
+            "body_bytes_sent": "43",
+            "request_time": "0.000",
+            "status": "200",
+            "request": "GET /plugins/status.gif?type=videoviewability;status=viewability;sid=f6800d7a-ea99-4b4e-aaa4-7d06ba814d9d;ph=6625;vp=100;vs=6625;tc=8726.581;sc=1615033079958;wt=6261;vid=1190206;user_id=29759 HTTP/1.1",
+            "request_method": "GET",
+            "http_referrer": "-",
+            "http_user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.34 Safari/537.36 WebAppManager"
+        },
+        {
+            "time": "06/Mar/2021:17:48:00 +0530",
+            "remote_addr": "10.0.1.72",
+            "client_ip": "37.164.92.45",
+            "remote_user": "-",
+            "body_bytes_sent": "43",
+            "request_time": "0.000",
+            "status": "200",
+            "request": "GET /plugins/status.gif?type=videoviewability;status=viewability;sid=f8a34c6e-ef88-4413-a6a9-ef2531c0d400;ph=1198;vp=%5BVIEWPORTPERCENTAGE%5D;vs=1198;tc=0;sc=1615033080;wt=2395;vid=1223631 HTTP/1.1",
+            "request_method": "GET",
+            "http_referrer": "-",
+            "http_user_agent": "IBC%20Tamil/4 CFNetwork/1206 Darwin/20.1.0"
+        },
+        {
+            "time": "06/Mar/2021:17:48:00 +0530",
+            "remote_addr": "10.0.2.99",
+            "client_ip": "85.2.0.102",
+            "remote_user": "-",
+            "body_bytes_sent": "43",
+            "request_time": "0.000",
+            "status": "200",
+            "request": "GET /plugins/status.gif?type=videoviewability;status=viewability;sid=7264b035-a653-4525-a0a3-b9525e5652e4;ph=8180;vp=%5BVIEWPORTPERCENTAGE%5D;vs=8180;tc=8180;sc=1615033079;wt=8180;vid=1223631 HTTP/1.1",
+            "request_method": "GET",
+            "http_referrer": "-",
+            "http_user_agent": "Dalvik/2.1.0 (Linux; U; Android 8.0.0; SM-G930F Build/R16NW)"
+        },
+        {
+            "time": "06/Mar/2021:17:48:00 +0530",
+            "remote_addr": "10.0.1.72",
+            "client_ip": "87.49.147.179",
+            "remote_user": "-",
+            "body_bytes_sent": "43",
+            "request_time": "0.000",
+            "status": "200",
+            "request": "GET /plugins/status.gif?type=videoviewability;status=viewability;sid=b3bd36db-8cc3-40e4-959f-c3de73ec38ac;ph=16830;vp=%5BVIEWPORTPERCENTAGE%5D;vs=16830;tc=16830;sc=1615033079;wt=16830;vid=1223631 HTTP/1.1",
+            "request_method": "GET",
+            "http_referrer": "-",
+            "http_user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-J500FN Build/LMY48B)"
+        },
+        {
+            "time": "06/Mar/2021:17:48:00 +0530",
+            "remote_addr": "10.0.2.99",
+            "client_ip": "106.195.110.205",
+            "remote_user": "-",
+            "body_bytes_sent": "43",
+            "request_time": "0.000",
+            "status": "200",
+            "request": "GET /plugins/beacon.gif?type=error;status=playlist_error;cmpid=17086;cmpro=5760;pid=1676;cid=IN;pfid=3;pd=2;sid=008ca0e0-6f97-43a9-91ea-fd33a888214b;ecode=403;einfo=tag[0]:||;sc=2021-03-06:17:47:49 HTTP/1.1",
+            "request_method": "GET",
+            "http_referrer": "https://m.jagran.com/uttar-pradesh/moradabad-city-rampur-radico-khaitan-liquor-factory-up-fire-in-liquor-factory-radico-khaitan-10-workers-scorched-21433947.html",
+            "http_user_agent": "Mozilla/5.0 (Linux; U; Android 5.1.1; en-us; A37fw Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.80 Mobile Safari/537.36 HeyTapBrowser/15.7.6.1"
+        },
+        {
+            "time": "06/Mar/2021:17:48:00 +0530",
+            "remote_addr": "10.0.2.99",
+            "client_ip": "76.175.152.54",
+            "remote_user": "-",
+            "body_bytes_sent": "43",
+            "request_time": "0.000",
+            "status": "200",
+            "request": "GET /plugins/status.gif?type=videoviewability;status=viewability;sid=1af3ffae-70a9-46c5-8548-19381cd29250;ph=3800;vp=[VIEWPORTPERCENTAGE];vs=3800;tc=3878;sc=1.615033e+09;wt=3800;vid=1234480 HTTP/1.1",
+            "request_method": "GET",
+            "http_referrer": "-",
+            "http_user_agent": "Roku/DVP-9.40 (089.40E04200A)"
+        },
+        {
+            "time": "06/Mar/2021:17:48:00 +0530",
+            "remote_addr": "10.0.2.99",
+            "client_ip": "209.126.12.78",
+            "remote_user": "-",
+            "body_bytes_sent": "43",
+            "request_time": "0.000",
+            "status": "200",
+            "request": "GET /plugins/beacon.gif?type=error;status=hls_error;error-type=networkError;message=manifestParsingError;random=04038641899304256 HTTP/1.1",
+            "request_method": "GET",
+            "http_referrer": "https://www.simplysouth.tv/",
+            "http_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36"
+        },
+        {
+            "time": "06/Mar/2021:17:48:00 +0530",
+            "remote_addr": "10.0.2.99",
+            "client_ip": "79.67.191.69",
+            "remote_user": "-",
+            "body_bytes_sent": "43",
+            "request_time": "0.000",
+            "status": "200",
+            "request": "GET /plugins/status.gif?type=videoviewability;status=viewability;sid=0f110b66-3845-4a0e-b478-1c2869945ec9;ph=2845;vp=%5BVIEWPORTPERCENTAGE%5D;vs=2845;tc=2845;sc=1615033084;wt=2845;vid=1223631 HTTP/1.1",
+            "request_method": "GET",
+            "http_referrer": "-",
+            "http_user_agent": "Dalvik/2.1.0 (Linux; U; Android 9; SM-A705FN Build/PPR1.180610.011)"
+        },
+        {
+            "time": "06/Mar/2021:17:48:00 +0530",
+            "remote_addr": "10.0.2.99",
+            "client_ip": "90.199.2.202",
+            "remote_user": "-",
+            "body_bytes_sent": "43",
+            "request_time": "0.000",
+            "status": "200",
+            "request": "GET /plugins/status.gif?type=videoviewability;status=viewability;sid=2fbe95e7-f0ac-4882-9bba-669405f757ae;ph=23063;vp=%5BVIEWPORTPERCENTAGE%5D;vs=23063;tc=0;sc=1615033080;wt=46125;vid=1223631 HTTP/1.1",
+            "request_method": "GET",
+            "http_referrer": "-",
+            "http_user_agent": "IBC%20Tamil/4 CFNetwork/758.5.3 Darwin/15.6.0"
+        },
+        {
+            "time": "06/Mar/2021:17:48:00 +0530",
+            "remote_addr": "10.0.1.72",
+            "client_ip": "78.101.94.150",
+            "remote_user": "-",
+            "body_bytes_sent": "43",
+            "request_time": "0.000",
+            "status": "200",
+            "request": "GET /plugins/status.gif?type=videoviewability;status=viewability;sid=7e472931-91c7-4b9a-b93c-acd593e6cc5f;ph=7794;vp=100;vs=7794;tc=7968;sc=1615033080;wt=6745;vid=1282647;user_id=26254 HTTP/1.1",
+            "request_method": "GET",
+            "http_referrer": "-",
+            "http_user_agent": "OTT_tvOS/3 CFNetwork/1220.1 Darwin/20.3.0"
+        },
+        {
+            "time": "06/Mar/2021:17:48:00 +0530",
+            "remote_addr": "10.0.2.99",
+            "client_ip": "122.160.70.186",
+            "remote_user": "-",
+            "body_bytes_sent": "5",
+            "request_time": "0.000",
+            "status": "200",
+            "request": "GET /plugins/istatus.php?type=adstart&status=start&sid=d683f4e3-52a0-4c6a-9c4f-dad746ef177d&cmpro=5760&cmpid=17086&pid=1676&cid=IN&vid=1&pfid=3&sc=2021-03-06%3A17%3A47%3A56&timestamp=1615033091762&ptm=1&mvt=NA&vpu=-1&mvtro=NA&vpuro=0&cmprate=0 HTTP/1.1",
+            "request_method": "GET",
+            "http_referrer": "https://www.jagran.com/",
+            "http_user_agent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36"
+        },
+        {
+            "time": "06/Mar/2021:17:48:00 +0530",
+            "remote_addr": "10.0.1.72",
+            "client_ip": "37.124.121.70",
+            "remote_user": "-",
+            "body_bytes_sent": "43",
+            "request_time": "0.000",
+            "status": "200",
+            "request": "GET /plugins/status.gif?type=videoviewability;status=viewability;sid=5d12f287-237f-4477-a72c-74b5180c2034;ph=898;vp=%5BVIEWPORTPERCENTAGE%5D;vs=898;tc=10650;sc=1615033078;wt=675;vid=1281694;user_id=54626 HTTP/1.1",
+            "request_method": "GET",
+            "http_referrer": "-",
+            "http_user_agent": "Dalvik/2.1.0 (Linux; U; Android 9; MIBOX4 Build/PI)"
+        },
+        {
+            "time": "06/Mar/2021:17:48:00 +0530",
+            "remote_addr": "10.0.1.72",
+            "client_ip": "61.6.149.68",
+            "remote_user": "-",
+            "body_bytes_sent": "43",
+            "request_time": "0.000",
+            "status": "200",
+            "request": "GET /plugins/status.gif?type=videoviewability;status=viewability;sid=999218e4-a474-4873-970b-97d9de17570e;ph=1644;vp=%5BVIEWPORTPERCENTAGE%5D;vs=1644;tc=9058;sc=1615033077;wt=125;vid=1226213;user_id=50988 HTTP/1.1",
+            "request_method": "GET",
+            "http_referrer": "-",
+            "http_user_agent": "Dalvik/2.1.0 (Linux; U; Android 7.1.1; CPH1719 Build/NMF26X)"
+        },
+        {
+            "time": "06/Mar/2021:17:48:00 +0530",
+            "remote_addr": "10.0.2.99",
+            "client_ip": "92.6.112.249",
+            "remote_user": "-",
+            "body_bytes_sent": "43",
+            "request_time": "0.000",
+            "status": "200",
+            "request": "GET /plugins/status.gif?type=videoviewability;status=viewability;sid=18e35db5-cc23-4d71-ac9a-854d704fdd60;ph=61409;vp=[VIEWPORTPERCENTAGE];vs=61409;tc=61469;sc=1.615033e+09;wt=61409;vid=1169468 HTTP/1.1",
+            "request_method": "GET",
+            "http_referrer": "-",
+            "http_user_agent": "Roku/DVP-9.10 (029.10E05006A)"
+        },
+        {
+            "time": "06/Mar/2021:17:48:00 +0530",
+            "remote_addr": "10.0.1.72",
+            "client_ip": "2.99.127.18",
+            "remote_user": "-",
+            "body_bytes_sent": "43",
+            "request_time": "0.000",
+            "status": "200",
+            "request": "GET /plugins/status.gif?type=videoviewability;status=viewability;sid=bd9fad14-e795-4983-a9bd-150733be5ce1;ph=1133;vp=%5BVIEWPORTPERCENTAGE%5D;vs=1133;tc=0;sc=1615033080;wt=2265;vid=1223631 HTTP/1.1",
+            "request_method": "GET",
+            "http_referrer": "-",
+            "http_user_agent": "IBC%20Tamil/4 CFNetwork/1220.1 Darwin/20.3.0"
+        },
+        {
+            "time": "06/Mar/2021:17:48:00 +0530",
+            "remote_addr": "10.0.2.99",
+            "client_ip": "45.64.10.155",
+            "remote_user": "-",
+            "body_bytes_sent": "5",
+            "request_time": "0.001",
+            "status": "200",
+            "request": "GET /plugins/istatus.php?type=adstart&status=start&sid=e50c17cc-098d-4da7-8cde-b2c69a4aca69&cmpro=5760&cmpid=17086&pid=1676&cid=IN&vid=1&pfid=3&sc=2021-03-06%3A17%3A47%3A58&timestamp=1615033079964&ptm=2&mvt=NA&vpu=-1&mvtro=NA&vpuro=0&cmprate=0 HTTP/1.1",
+            "request_method": "GET",
+            "http_referrer": "https://m.jagran.com/cricket/headlines-indian-fast-bowler-going-to-marriage-with-model-and-sports-anchor-sanjana-ganesan-21432822.html?utm_source=referral&utm_medium=WA&utm_campaign=amp_social_share",
+            "http_user_agent": "Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-G780F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/13.2 Chrome/83.0.4103.106 Mobile Safari/537.36"
+        }
+    ]
+}
