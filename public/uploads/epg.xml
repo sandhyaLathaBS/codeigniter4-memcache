@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Mplaylist>
+    <start_time>01-03-2021 06:00:00</start_time>
+    <title>KAAKAKI</title>
+    <description><![CDATA[ A news related programme presenting fact about Africa and Africans to the world
+]]></description>
+    <play_duration>03:00:00</play_duration>
+    <media_type>M</media_type>
+    <actual_duration>02:58:00</actual_duration>
+  </Mplaylist>
+  <Mplaylist>
+    <start_time>01-03-2021 09:00:00</start_time>
+    <title>HALF SISTERS SIE1</title>
+ <description><![CDATA[ Bebe arrives from abroad where she studies, only to meet a none nonchalant and unassuming half sister, Clara, who is not ready and willing to move her grounds to make her sister’s home coming pleasant. ]]></description>
+    <play_duration>0030:00</play_duration>
+    <media_type>M</media_type>
+    <actual_duration>00:22:21</actual_duration>
+  </Mplaylist>
+  <Mplaylist>
+    <start_time>01-03-2021 09:30:00</start_time>
+    <title>MY MAD HUSBAND S1E1</title>
+ <description><![CDATA[ Mr. and Mrs. Davis congratulate each other on their successful wedding but the happiness seems to be fading away as they begin to disagree on where to spend their honeymoon. Soji’s effort to convince Amaka not to go to Dubai is clearly not paying off.]]></description>
+    <play_duration>00:30:00</play_duration>
+    <media_type>M</media_type>
+    <actual_duration>00:20:35</actual_duration>
+  </Mplaylist>
+  <Mplaylist>
+    <start_time>01-03-2021 10:00:00</start_time>
+    <title>FOCUS NIGERIA</title>
+ <description><![CDATA[ A discussion programme that examine issues bothering on Nigeria’s growth and development, with a view to identifying problems and proffering solutions.
+]]></description>
+    <play_duration>01:00:00</play_duration>
+    <media_type>M</media_type>
+    <actual_duration>00:58:00</actual_duration>
+  </Mplaylist>
+  <Mplaylist>
+    <start_time>01-03-2021 11:00:00</start_time>
+    <title>JUSTEVE SHOW (SAM SODJE)</title>
+ <description><![CDATA[ One of the many Sodje brothers, Sam was born in London, but originally from Warri in Nigeria. A footballer of repute who grew to become one of the defensive power house of the Nigeria Super Eagles. He talks about his growing up and life’s journey.   ]]></description>
+    <play_duration>00:30:00</play_duration>
+    <media_type>M</media_type>
+    <actual_duration>00:14:55</actual_duration>
+  </Mplaylist>
+  <Mplaylist>
+    <start_time>01-03-2021 11:30:00</start_time>
+    <title>MAGNUS KPAKOL GVA (The power of Africa's Tech. generation PT.1)</title>
+ <description><![CDATA[ The world is changing and the fourth industrial revolution gains even more speed, making it definite that tomorrow will be dramatically different in the way we live and work. Dr. Evans Woherem, founder and chairman of Digital Africa gives a sufficiently detailed report on how to access the power of Africa's technology generation.]]></description>
+    <play_duration>00:30:00</play_duration>
+    <media_type>M</media_type>
+    <actual_duration>00:24:44</actual_duration>
+  </Mplaylist>
+  <Mplaylist>
+    <start_time>01-03-2021 12:00:00</start_time>
+    <title>AIT REPORTS </title>
+ <description><![CDATA[ AIT Reports presents major news stories from across the states in Nigeria. This is as captured by our reporters scattered across the 36 states of the country.]]></description>
+    <play_duration>01:00:00</play_duration>
+    <media_type>M</media_type>
+    <actual_duration>00:58:00</actual_duration>
+  </Mplaylist>
+  
+</DocumentElement>
